@@ -77,7 +77,7 @@ This homework demonstrates how regularization and optimization choices impact ge
 
 ## Author
 
-Ifesinachi Aroh
-Data Science
+Ifesinachi Aroh\
+Data Science\
 Auburn University
 
